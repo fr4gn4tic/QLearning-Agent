@@ -4,3 +4,5 @@ That's just a hobby project, I'm trying to learn QLearning and C#.
 -The agent should navigate through the maze from the start to the end.
 
 - The End ;)
+
+I am looking forward to your improvements.
